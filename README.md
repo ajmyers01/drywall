@@ -87,6 +87,10 @@ db.admins.save(rootAdmin);
 
 
 ## Running the app
+```bash
+# Run Mongodb
+$ mongod
+```
 
 ```bash
 $ npm start
